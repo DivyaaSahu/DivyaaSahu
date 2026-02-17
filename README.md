@@ -27,14 +27,14 @@ Here are some ideas to get you started:
 - 🔭 I’m currently a student of **2nd Year**
 - 🌱 I’m focusing on **Leetcode DSA**
 - 💬 Ask me about **MERN Stack, JavaScript, React.js, Node.js, Java, MongoDB, DSA**
-- 📫 How to reach me: **divyasahuofcl1410@gmail.com**
+- 📫 How to reach me: **divyasoni70082ds@gmail.com**
 - ⚡ Fun fact: **I write code that sometimes works on the first try. It's scary.**
 
 ---
 
 ### 🌐 Connect With Me:
 <p align="left">
-  <a href="https://linkedin.com/in/DivyaSahu" target="_blank"><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="LinkedIn" height="30" width="30" /></a>
+  <a href="www.linkedin.com/in/divya-sahu-92b620309" target="_blank"><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="LinkedIn" height="30" width="30" /></a>
   <a href="https://twitter.com/divyasahu70082" target="_blank"><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/twitter/twitter-original.svg" alt="Twitter" height="30" width="30" /></a>
 </p>
 
