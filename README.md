@@ -34,7 +34,7 @@ Here are some ideas to get you started:
 
 ### 🌐 Connect With Me:
 <p align="left">
-  <a href="www.linkedin.com/in/divya-sahu-92b620309" target="_blank"><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="LinkedIn" height="30" width="30" /></a>
+  <a href="https://www.linkedin.com/in/divya-sahu-92b620309/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="LinkedIn" height="30" width="30" /></a>
   <a href="https://twitter.com/divyasahu70082" target="_blank"><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/twitter/twitter-original.svg" alt="Twitter" height="30" width="30" /></a>
 </p>
 
